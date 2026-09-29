@@ -1,0 +1,10 @@
+pandas = 3.11
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+imbalanced-learn
+jupyter
+notebook
+openpyxl
